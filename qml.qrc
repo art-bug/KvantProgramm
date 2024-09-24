@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MessageBox.qml</file>
+        <file>empty-table-placeholder.png</file>
+        <file>UserTableView.qml</file>
+        <file>Placeholder.qml</file>
+    </qresource>
+</RCC>
